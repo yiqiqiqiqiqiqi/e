@@ -1,5 +1,4 @@
 # import necessary libraries
-# test
 import pygame
 import random
 # setting up some initial parameters
